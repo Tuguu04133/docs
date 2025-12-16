@@ -48,9 +48,9 @@
           {
             "group": "Yellowbook Documentation",
             "pages": [
-              "Tutorial",
-              "Procedure",
-              "Reference"
+              "tutorial",
+              "procedure",
+              "reference"
             ]
           }
         ]
