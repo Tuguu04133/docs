@@ -2,7 +2,6 @@
 title: "Procedure"
 ---
 
-````markdown
 # Yellowbook Procedure Guide
 
 Энэ баримт нь төслийн хүрээнд байнга давтагддаг үндсэн үйлдлүүдийг (журам) алхамчилсан байдлаар жагсаана.
@@ -97,5 +96,3 @@ title: "Procedure"
    - Docker images ECR рүү push болсон эсэх
    - Kubernetes manifests амжилттай apply болсон эсэх
 4. Live орчин дээр апп ажиллаж байгаа эсэхийг шалгах (Ingress хаяг руу орж)
-
-````

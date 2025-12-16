@@ -2,7 +2,6 @@
 title: "Tutorial"
 ---
 
-````markdown
 # Yellowbook Tutorial
 
 Энэ tutorial нь Yellowbook (Монголын Бизнес Лавлах) төслийг эхнээс нь клон хийж, локал дээрээ ажиллуулах хүртэл алхамчилсан байдлаар тайлбарлана.
@@ -115,5 +114,3 @@ npx nx e2e web-e2e
 
 - Кодын бүтцийг ойлгох: `README.md`-ийн "Project бүтэц" хэсэг
 - AWS/EKS deployment сонирхож байвал: `k8s/README.md` болон `ARCHITECTURE.md`
-
-````

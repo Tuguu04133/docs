@@ -44,6 +44,14 @@
               "ai-tools/claude-code",
               "ai-tools/windsurf"
             ]
+          },
+          {
+            "group": "Yellowbook Documentation",
+            "pages": [
+              "Tutorial",
+              "Procedure",
+              "Reference"
+            ]
           }
         ]
       },
