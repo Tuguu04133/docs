@@ -1,6 +1,5 @@
----
-title: "Reference"
-description: "# Yellowbook Reference Guide
+````markdown
+# Yellowbook Reference Guide
 
 Энэ баримт нь төслийн гол лавлах мэдээллүүдийг (командууд, env хувьсагч, API endpoint-ууд г.м.) нэг дороос харах зорилготой.
 
@@ -114,5 +113,4 @@ AWS/EKS deployment үед нэмэгдэх боломжтой хувьсагчу
 
 
 
-"
----
+````
